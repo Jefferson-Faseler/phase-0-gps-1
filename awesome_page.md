@@ -5,4 +5,4 @@
 
 ```insert awesome code here```
 
-[Click here](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
+[Everything is Awesome if you Click Here](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
