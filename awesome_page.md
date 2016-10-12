@@ -6,3 +6,4 @@
 ```insert awesome code here```
 
 [Click here](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
+Merge requests are confusing!
