@@ -5,5 +5,6 @@
 
 ```insert awesome code here```
 
+
 [Click here for everything that is AWESOME!](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
-But I will conquet them!
+I am learning how to solve merge conflicts
